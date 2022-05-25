@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there! 🙋‍♂️
 
-<!--
-**sharkawy98/sharkawy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm __Ahmed__, a junior data engineer from 🇪🇬 Egypt.
 
-Here are some ideas to get you started:
+### ✨ About Me ✨
+- 👨‍💻  Recent CS graduate making my way into the data world
+- 📝 Taught myself data engineering 
+- 👀 Looking for a data engineering opportunity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡️ Currently ⚡️
+- Working on portfolio projects 
+- Learning containerization using Docker
+- Learning data orchestration using Airflow
+
+### 💡 Core Competencies 💡
+- Tools: Python, SQL, MSSQL Server, BigQuery, Pandas, Flask and Git
+- Skills:  Data Warehousing, Data Cleaning & Transformation, ETLs and APIs 
+
+### 🙌🏻 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/sharkawy98/)
