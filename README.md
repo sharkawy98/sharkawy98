@@ -16,5 +16,5 @@ I'm __Ahmed__, a junior data engineer from 🇪🇬 Egypt.
 - Tools: Python, SQL, MSSQL Server, BigQuery, Pandas, Flask and Git
 - Skills:  Data Warehousing, Data Cleaning & Transformation, ETLs and APIs 
 
-### 🙌🏻 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sharkawy98/)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharkawy98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharkawy98&layout=compact&theme=buefy&hide_border=true"/> |
+| ------------- | ------------- |
