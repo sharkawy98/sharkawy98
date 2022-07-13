@@ -3,8 +3,9 @@
 I'm __Ahmed__, a junior data engineer from 🇪🇬 Egypt.
 
 ### ✨ About Me ✨
-- 👨‍💻 Recent CS graduate making my way into the data world
-- 👀 Looking for a data engineering opportunity
+- 🌍 Data engineer who loves to make impact
+- 👨‍💻 ETL developer at Etisalat Egypt
+- :soccer: An avid lover of football
 
 ### ⚡️ Currently ⚡️
 - Working on portfolio projects 
