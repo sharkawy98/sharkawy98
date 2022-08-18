@@ -4,7 +4,7 @@ I'm __Ahmed__, a junior data engineer from 🇪🇬 Egypt.
 
 ### ✨ About Me ✨
 - 🌍 Data engineer who loves to make impact
-- 👨‍💻 ETL developer at Etisalat Egypt
+- 👨‍💻 Data Engineer at Unilever
 - :soccer: An avid lover of football
 
 ### ⚡️ Currently ⚡️
